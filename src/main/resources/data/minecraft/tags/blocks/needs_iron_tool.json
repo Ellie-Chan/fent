@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "fentanyl:fentanyl_block",
+    "fentanyl:fentanyl_ore",
+    "fentanyl:deepslate_fentanyl_ore"
+  ]
+}

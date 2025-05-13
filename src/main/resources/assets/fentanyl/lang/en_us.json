@@ -1,0 +1,22 @@
+{
+  "item.fentanyl.fentanyl" : "Fentanyl Ingot",
+  "item.fentanyl.raw_fentanyl" : "Raw Fentanyl",
+
+  "block.fentanyl.fentanyl_block": "Block of Fentanyl",
+
+  "item.fentanyl.fentanyl_ore" : "Fentanyl Ore",
+  "item.fentanyl.deesplate_fentanyl_ore" : "Deesplate Fentanyl Ore",
+
+  "item.fentanyl.fentanyl_helmet" : "Fentanyl Helmet",
+  "item.fentanyl.fentanyl_chestplate" : "Fentanyl Chestplate",
+  "item.fentanyl.fentanyl_leggings" : "Fentanyl Leggings",
+  "item.fentanyl.fentanyl_boots" : "Fentanyl Boots",
+
+  "item.fentanyl.fentanyl_sword": "Fentanyl Sword",
+
+  "item.fentanyl.fentanyl_pickaxe" : "Fentanyl Pickaxe",
+  "item.fentanyl.fentanyl_shovel" : "Fentanyl Shovel",
+  "item.fentanyl.fentanyl_axe" : "Fentanyl Axe",
+  "item.fentanyl.fentanyl_hoe" : "Fentanyl Hoe"
+
+}

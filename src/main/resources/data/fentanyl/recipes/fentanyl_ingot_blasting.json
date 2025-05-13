@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 3,
+  "group": "fentanyl",
+  "ingredient": {
+    "item": "fentanyl:raw_fentanyl"
+  },
+  "result": "fentanyl:fentanyl"
+}

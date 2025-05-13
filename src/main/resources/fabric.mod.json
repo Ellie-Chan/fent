@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "fentanyl",
+	"version": "${version}",
+	"name": "Fentanyl",
+	"description": "it um.. uhmm.. umm...",
+	"authors": [
+		"me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/fentanyl/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.justellie_.fentanyl.Fentanyl"
+		],
+		"client": [
+			"net.justellie_.fentanyl.FentanylClient"
+		],
+		"fabric-datagen": [
+			"net.justellie_.fentanyl.FentanylDataGenerator"
+		]
+	},
+	"mixins": [
+		"fentanyl.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

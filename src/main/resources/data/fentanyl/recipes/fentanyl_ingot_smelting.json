@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 3,
+  "group": "fentanyl",
+  "ingredient": {
+    "item": "fentanyl:raw_fentanyl"
+  },
+  "result": "fentanyl:fentanyl"
+}

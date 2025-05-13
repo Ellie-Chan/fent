@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients":[
+    {
+      "item": "fentanyl:fentanyl_block"
+    }
+  ],
+  "result": {
+  "item": "fentanyl:fentanyl",
+    "count": 9
+}
+}
